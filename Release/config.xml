@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.1</version>
-    <url>https://github.com/E2Slayer/BDOKRPatchData/AutoUpdaterTest.zip</url>
-    <changelog>https://github.com/E2Slayer/BDOKRPatchData/releases</changelog>
+    <url>https://github.com/E2Slayer/BDOKRPatchData/raw/master/Release/BDOKRPatch.zip</url>
+    <changelog>https://github.com/E2Slayer/BDOKRPatchData/raw/master/Release/changelog.txt</changelog>
     <mandatory>true</mandatory>
 </item>
