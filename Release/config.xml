@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.6.0</version>
+    <version>1.0.7.0</version>
     <url>https://github.com/E2Slayer/BDOKRPatchData/raw/master/Release/BDOKRPatcher-Kesk.zip</url>
     <changelog>https://raw.githubusercontent.com/E2Slayer/BDOKRPatchData/master/Release/changelog.txt</changelog>
     <mandatory>false</mandatory>
